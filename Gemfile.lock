@@ -6,7 +6,7 @@ GEM
     eventmachine (0.12.10)
     json (1.7.4)
     mime-types (1.19)
-    rack (1.4.1)
+    rack (1.6.12)
     rest-client (1.6.7)
       mime-types (>= 1.16)
     rspec (2.11.0)
